@@ -1,3 +1,7 @@
+Este projeto foi desenvolvido como projeto final para a disciplina de Programação Web na UEPB. Ele é um sistema CRUD que permite o gerenciamento de alunos, professores, endereços e projetos acadêmicos. O front-end foi desenvolvido utilizando React.js.
+
+Foi utilizada uma versão mais antiga do material-dashboard, foi necessário regredir a versão do Node.js para 12.22.22 Erbium para garantir a compatibilidade e o funcionamento adequado do projeto na máquina utilizada.
+
 <a href="https://www.creative-tim.com/campaign?utm_medium=social&utm_source=github&utm_campaign=bf-readme-2020">
 <img border="0" alt="Creative Tim Black Friday Offer" src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/bf-github-banner.png" >
 </a>
